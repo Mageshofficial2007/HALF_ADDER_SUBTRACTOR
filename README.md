@@ -96,23 +96,28 @@ RegisterNumber:24900855
 **RTL Schematic**
 1) HALF ADDEER
 
-![WhatsApp Image 2024-12-08 at 19 39 35_b4834c9d](https://github.com/user-attachments/assets/9ee06133-104b-4f1c-b2f2-c92e6bd0d2f8)
+![391319522-ae607d99-b8b8-4135-bb16-164b816109a6](https://github.com/user-attachments/assets/5ea7839f-7a7f-4fe4-bad0-f4b140c7c5f0)
+
 
 2) HALF SUBRACTOR
 
-   ![WhatsApp Image 2024-12-08 at 19 39 39_bd126191](https://github.com/user-attachments/assets/3fe48bdc-35a3-4e9d-8b6b-d4c1fe6992f2)
+ ![391319543-92a0eff7-49b1-4e8b-a65c-aaaaa3885c40](https://github.com/user-attachments/assets/c20cc008-f390-4284-998a-0379895a8d7f)
+
 
 
 **Output/TIMING Waveform**
 
 1) HALF ADDEER
 
-![WhatsApp Image 2024-12-08 at 19 39 51_7ff70083](https://github.com/user-attachments/assets/f09c7f26-8c84-4351-a1f8-df10555381a0)
+![WhatsApp Image 2024-12-08 at 19 57 43_9b6b61bb](https://github.com/user-attachments/assets/f7637fac-61df-4259-a8ce-15dc6d1fe30a)
+
+
 
 2) HALF SUBRACTOR
 
-  ![WhatsApp Image 2024-12-08 at 19 39 54_e3c09dec](https://github.com/user-attachments/assets/2564957c-18c0-4107-82be-5974b2cc299b)
- 
+![WhatsApp Image 2024-12-08 at 19 57 47_f536911a](https://github.com/user-attachments/assets/0d627c21-3da9-4350-bf9d-f5bb97a409e7)
+
+
 
 **Result:**
 
